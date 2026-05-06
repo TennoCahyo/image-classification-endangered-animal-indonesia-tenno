@@ -4,6 +4,8 @@ Proyek ini merupakan implementasi model Deep Learning (Convolutional Neural Netw
 
 Live Demo & Deployment
 Model ini telah dideploy dan dapat diakses secara publik melalui Hugging Face Spaces:
+
+
 https://tennocahyo-ai-image-klasifikasi-5-hewan-endemik.hf.space/docs
 
 ## Dokumentasi Penggunaan API (Endpoint)
