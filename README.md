@@ -1,4 +1,4 @@
-# Klasifikasi Hewan Endemik Indonesia Menggunakan Deep Learning
+# Klasifikasi Hewan Endemik Indonesia menggunakan Image Classification
 
 Proyek ini merupakan implementasi model Deep Learning (Convolutional Neural Network) untuk mengklasifikasi 5 jenis hewan endemik Indonesia yang terancam punah. Sistem ini dibangun menggunakan framework **PyTorch** untuk pemrosesan gambar dan **FastAPI** sebagai antarmuka API, serta dikemas menggunakan **Docker** untuk kemudahan deployment.
 
