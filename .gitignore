@@ -1,0 +1,9 @@
+# --- Python & Environment ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# --- Secrets & Models ---
+.env
